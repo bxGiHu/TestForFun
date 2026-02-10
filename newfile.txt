@@ -1,1 +1,2 @@
 "line in new file" 
+"add local line" 
