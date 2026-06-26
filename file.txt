@@ -6,4 +6,5 @@ fivth line from remote
 'git pull local' 
 make change before local push
 add server on 6/26/2026
+server test merge to local first
 local changes
