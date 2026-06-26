@@ -5,3 +5,4 @@ now fouth line from server
 fivth line from remote
 'git pull local' 
 make change before local push
+add server on 6/26/2026
